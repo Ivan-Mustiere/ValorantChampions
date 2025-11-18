@@ -6,8 +6,8 @@ year = "2025"
 # -----------------------------
 # CHARGEMENT
 # -----------------------------
-players = pd.read_csv(f"/home/van-pc_ivan/Data_Ana/{year}/player_stats.csv")
-dmatches = pd.read_csv(f"/home/van-pc_ivan/Data_Ana/{year}/detailed_matches_player_stats.csv")
+players = pd.read_csv(f"~/ValorantChampions/data/{year}/player_stats.csv")
+dmatches = pd.read_csv(f"~/ValorantChampions/data/{year}/detailed_matches_player_stats.csv")
 
 # -----------------------------
 # FILTRER UNIQUEMENT LES LIGNES MAP (exclure 'overall')

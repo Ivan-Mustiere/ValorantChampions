@@ -3,7 +3,7 @@ import numpy as np
 import ast
 
 # Chargement des données
-df = pd.read_csv('player_stats_moyennes_roles_2024.csv')
+df = pd.read_csv('~/ValorantChampions/data/2024/player_stats_moyennes_roles_2024.csv')
 
 # Pré-calcul des moyennes et écarts-types pour certaines statistiques (normalisation de score)
 stats_cols = ['acs', 'adr', 'kpr', 'kast']

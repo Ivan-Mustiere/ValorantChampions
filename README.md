@@ -19,6 +19,7 @@ Le projet inclut un tableau public, une présentation complète ainsi qu’un pr
 ## Présentation Figma  
 La présentation et la maquette du Dashboard final sont disponibles ici :  
 👉 Presentation : **https://www.figma.com/slides/OoMML48iZOzeIfjdO5KzIF/Diapo?node-id=1-1262&t=Sn9T4HMMQIifsCX5-1**
+
 👉 Dashboard : **https://www.figma.com/design/imsXbzfgK83yi9e16uKCBh/Dashboard?node-id=0-1&t=kjhHA7OLvVHAxeVK-1**
 
 
