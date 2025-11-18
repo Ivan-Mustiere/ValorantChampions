@@ -1,0 +1,82 @@
+player,player_name,team,rating,acs,kd_ratio,kast,adr,kpr,apr,fkpr,fdpr,hs_percent,cl_percent,map_played,maps_won,map_winrate,agents_played,agents_win_count,roles,score
+aspas,aspas,MIBR,1.33,261.6,1.66,79,164.7,0.97,0.13,0.2,0.07,26,8,15,9,60.0,"{'Jett': 4, 'Neon': 5, 'Raze': 2, 'Waylay': 4}","{'Jett': 1, 'Neon': 4, 'Raze': 1, 'Waylay': 3}",['Duelliste'],86
+RieNs,RieNs,TH,1.17,226.1,1.14,73,148.9,0.79,0.33,0.07,0.05,34,20,12,7,58.33,"{'Fade': 8, 'Sova': 4}","{'Fade': 5, 'Sova': 2}",['Initiateur'],66
+brawk,brawk,NRG,1.16,224.6,1.17,76,144.7,0.73,0.34,0.07,0.06,17,9,17,13,76.47,"{'Sova': 14, 'Vyse': 3}","{'Sova': 10, 'Vyse': 3}","['Sentinelle', 'Initiateur']",86
+kaajak,kaajak,FNC,1.15,227.1,1.2,71,147.9,0.82,0.2,0.21,0.13,32,11,22,13,59.09,"{'Neon': 1, 'Raze': 3, 'Waylay': 4, 'Yoru': 14}","{'Neon': 0, 'Raze': 2, 'Waylay': 3, 'Yoru': 8}",['Duelliste'],77
+johnqt,johnqt,SEN,1.14,187.0,1.13,79,118.7,0.67,0.27,0.04,0.04,33,9,6,2,33.33,"{'Cypher': 1, 'Sova': 1, 'Viper': 4}","{'Cypher': 0, 'Sova': 1, 'Viper': 1}","['Sentinelle', 'Controleur', 'Initiateur']",44
+Smoggy,Smoggy,EDG,1.13,206.0,1.09,77,135.3,0.74,0.4,0.09,0.04,25,17,5,1,20.0,"{'Brimstone': 1, 'Omen': 4}","{'Brimstone': 0, 'Omen': 1}",['Controleur'],42
+leaf,leaf,G2,1.11,222.8,1.13,71,151.5,0.79,0.26,0.11,0.09,21,15,12,6,50.0,"{'Chamber': 2, 'Cypher': 1, 'Deadlock': 2, 'Viper': 7}","{'Chamber': 0, 'Cypher': 0, 'Deadlock': 1, 'Viper': 5}","['Sentinelle', 'Controleur']",63
+something,something,PRX,1.1,220.4,1.17,72,141.0,0.79,0.26,0.16,0.13,25,13,16,9,56.25,"{'Sova': 2, 'Yoru': 14}","{'Sova': 2, 'Yoru': 7}","['Duelliste', 'Initiateur']",71
+Knight,Knight,BLG,1.1,196.8,0.97,67,135.4,0.68,0.28,0.08,0.09,26,12,5,1,20.0,"{'Fade': 1, 'Sova': 4}","{'Fade': 0, 'Sova': 1}",['Initiateur'],36
+skuba,skuba,NRG,1.09,190.1,1.17,76,124.9,0.71,0.25,0.06,0.06,30,21,17,13,76.47,"{'Cypher': 1, 'Killjoy': 3, 'Viper': 7, 'Vyse': 6}","{'Cypher': 1, 'Killjoy': 1, 'Viper': 7, 'Vyse': 4}","['Sentinelle', 'Controleur']",80
+Chronicle,Chronicle,FNC,1.09,206.0,1.07,70,138.9,0.72,0.28,0.09,0.08,29,8,22,13,59.09,"{'Breach': 5, 'Cypher': 1, 'Viper': 12, 'Vyse': 4}","{'Breach': 3, 'Cypher': 0, 'Viper': 8, 'Vyse': 2}","['Sentinelle', 'Controleur', 'Initiateur']",76
+SpiritZ1,SpiritZ1,DRG,1.08,237.0,1.03,79,155.7,0.82,0.33,0.21,0.11,30,0,4,0,0.0,{'Yoru': 4},{'Yoru': 0},['Duelliste'],49
+NoMan,NoMan,XLG,1.08,221.4,1.18,73,140.7,0.78,0.19,0.1,0.1,32,5,7,2,28.57,"{'Deadlock': 1, 'Jett': 1, 'Kayo': 1, 'Killjoy': 1, 'Neon': 1, 'Skye': 2}","{'Deadlock': 1, 'Jett': 0, 'Kayo': 0, 'Killjoy': 1, 'Neon': 0, 'Skye': 0}","['Sentinelle', 'Duelliste', 'Initiateur']",52
+cortezia,cortezia,MIBR,1.08,196.4,1.27,75,130.2,0.72,0.21,0.11,0.07,33,8,15,9,60.0,"{'Cypher': 5, 'Killjoy': 3, 'Viper': 6, 'Vyse': 1}","{'Cypher': 3, 'Killjoy': 2, 'Viper': 4, 'Vyse': 0}","['Sentinelle', 'Controleur']",69
+Cloud,Cloud,GX,1.07,202.5,1.02,70,135.2,0.69,0.33,0.07,0.06,29,7,13,6,46.15,"{'Fade': 4, 'Gekko': 2, 'Sova': 7}","{'Fade': 1, 'Gekko': 1, 'Sova': 4}",['Initiateur'],52
+Alfajer,Alfajer,FNC,1.06,211.7,1.14,69,141.3,0.76,0.18,0.14,0.1,34,5,19,11,57.89,"{'Cypher': 4, 'Killjoy': 5, 'Neon': 1, 'Sage': 4, 'Tejo': 2, 'Vyse': 3}","{'Cypher': 3, 'Killjoy': 4, 'Neon': 0, 'Sage': 2, 'Tejo': 1, 'Vyse': 1}","['Sentinelle', 'Duelliste', 'Initiateur']",76
+jawgemo,jawgemo,G2,1.05,230.4,1.09,68,141.7,0.8,0.2,0.2,0.14,28,19,12,6,50.0,"{'Raze': 1, 'Yoru': 11}","{'Raze': 0, 'Yoru': 6}",['Duelliste'],58
+Jinggg,Jinggg,PRX,1.05,224.3,1.1,74,146.0,0.78,0.24,0.12,0.13,22,12,16,9,56.25,"{'Omen': 1, 'Raze': 11, 'Sage': 4}","{'Omen': 0, 'Raze': 7, 'Sage': 2}","['Sentinelle', 'Duelliste', 'Controleur']",74
+Verno,Verno,MIBR,1.05,199.3,1.15,76,129.3,0.67,0.33,0.1,0.06,25,17,15,9,60.0,"{'Fade': 2, 'Sova': 13}","{'Fade': 1, 'Sova': 8}",['Initiateur'],64
+ZmjjKK,ZmjjKK,EDG,1.04,237.4,1.08,62,143.5,0.82,0.18,0.21,0.19,24,0,5,1,20.0,"{'Neon': 1, 'Yoru': 4}","{'Neon': 1, 'Yoru': 0}",['Duelliste'],42
+iZu,iZu,T1,1.04,212.2,1.09,70,124.8,0.76,0.15,0.14,0.1,26,21,6,2,33.33,"{'Waylay': 1, 'Yoru': 5}","{'Waylay': 0, 'Yoru': 2}",['Duelliste'],40
+Meteor,Meteor,T1,1.04,219.0,0.96,68,144.2,0.74,0.18,0.17,0.07,36,11,6,2,33.33,"{'Cypher': 2, 'Vyse': 4}","{'Cypher': 1, 'Vyse': 1}",['Sentinelle'],42
+Flashback,Flashback,DRX,1.04,223.1,1.12,66,145.1,0.8,0.16,0.17,0.16,24,10,22,13,59.09,"{'Neon': 3, 'Yoru': 19}","{'Neon': 1, 'Yoru': 12}",['Duelliste'],74
+valyn,valyn,G2,1.03,192.3,0.97,75,124.1,0.65,0.37,0.09,0.07,26,14,12,6,50.0,"{'Astra': 2, 'Brimstone': 1, 'Omen': 9}","{'Astra': 1, 'Brimstone': 0, 'Omen': 5}",['Controleur'],51
+f0rsakeN,f0rsakeN,PRX,1.03,213.1,1.04,73,135.5,0.75,0.42,0.09,0.12,31,17,16,9,56.25,"{'Brimstone': 3, 'Omen': 12, 'Waylay': 1}","{'Brimstone': 2, 'Omen': 7, 'Waylay': 0}","['Duelliste', 'Controleur']",69
+Wo0t,Wo0t,TH,1.03,209.9,1.05,71,138.2,0.75,0.16,0.13,0.12,30,26,12,7,58.33,"{'Chamber': 4, 'Jett': 2, 'Raze': 1, 'Viper': 3, 'Yoru': 2}","{'Chamber': 2, 'Jett': 1, 'Raze': 1, 'Viper': 1, 'Yoru': 2}","['Sentinelle', 'Duelliste', 'Controleur']",66
+happywei,happywei,XLG,1.03,216.4,1.06,70,145.8,0.75,0.32,0.1,0.15,39,10,7,2,28.57,"{'Cypher': 3, 'Omen': 1, 'Viper': 3}","{'Cypher': 1, 'Omen': 0, 'Viper': 1}","['Sentinelle', 'Controleur']",48
+nAts,nAts,TL,1.02,194.4,1.06,69,126.7,0.69,0.18,0.11,0.11,26,19,7,2,28.57,"{'Cypher': 4, 'Viper': 2, 'Waylay': 1}","{'Cypher': 1, 'Viper': 1, 'Waylay': 0}","['Sentinelle', 'Duelliste', 'Controleur']",43
+HYUNMIN,HYUNMIN,DRX,1.01,211.0,1.11,68,139.4,0.76,0.19,0.11,0.09,40,6,22,13,59.09,"{'Raze': 1, 'Waylay': 21}","{'Raze': 1, 'Waylay': 12}",['Duelliste'],72
+MaKo,MaKo,DRX,1.01,171.7,1.02,72,108.9,0.61,0.37,0.08,0.09,25,13,22,13,59.09,"{'Brimstone': 4, 'Omen': 18}","{'Brimstone': 3, 'Omen': 10}",['Controleur'],62
+d4v41,d4v41,PRX,1.01,186.9,1.03,71,127.3,0.67,0.26,0.05,0.09,27,17,16,9,56.25,"{'Sage': 2, 'Viper': 3, 'Vyse': 11}","{'Sage': 2, 'Viper': 2, 'Vyse': 5}","['Sentinelle', 'Controleur']",63
+Viva,Viva,XLG,1.01,166.6,0.96,73,119.6,0.6,0.29,0.06,0.07,34,13,7,2,28.57,"{'Brimstone': 2, 'Fade': 1, 'Sova': 4}","{'Brimstone': 0, 'Fade': 1, 'Sova': 1}","['Controleur', 'Initiateur']",37
+westside,westside,GX,1.0,187.1,1.0,66,121.3,0.69,0.19,0.09,0.1,41,11,13,6,46.15,"{'Cypher': 10, 'Deadlock': 2, 'Vyse': 1}","{'Cypher': 5, 'Deadlock': 1, 'Vyse': 0}",['Sentinelle'],47
+mada,mada,NRG,1.0,214.2,1.06,66,137.2,0.75,0.19,0.17,0.2,26,15,17,13,76.47,"{'Jett': 2, 'Neon': 4, 'Raze': 3, 'Waylay': 4, 'Yoru': 4}","{'Jett': 1, 'Neon': 2, 'Raze': 3, 'Waylay': 4, 'Yoru': 3}",['Duelliste'],77
+keiko,keiko,TL,1.0,200.3,0.94,70,131.0,0.68,0.26,0.13,0.08,35,14,7,2,28.57,"{'Brimstone': 1, 'Omen': 4, 'Raze': 2}","{'Brimstone': 0, 'Omen': 1, 'Raze': 1}","['Duelliste', 'Controleur']",42
+Demon1,Demon1,DRG,1.0,174.8,1.02,73,117.0,0.65,0.16,0.04,0.04,38,10,4,0,0.0,"{'Cypher': 2, 'Vyse': 2}","{'Cypher': 0, 'Vyse': 0}",['Sentinelle'],33
+s0m,s0m,NRG,0.99,197.2,0.97,75,124.2,0.68,0.37,0.08,0.1,24,14,17,13,76.47,"{'Harbor': 4, 'Omen': 10, 'Viper': 3}","{'Harbor': 3, 'Omen': 9, 'Viper': 1}",['Controleur'],75
+nobody,nobody,EDG,0.99,171.0,0.97,69,115.2,0.62,0.16,0.04,0.07,30,27,5,1,20.0,"{'Fade': 2, 'Sova': 3}","{'Fade': 0, 'Sova': 1}",['Initiateur'],30
+artzin,artzin,MIBR,0.99,202.1,1.05,73,127.0,0.66,0.38,0.12,0.15,24,20,15,9,60.0,"{'Kayo': 8, 'Viper': 5, 'Yoru': 2}","{'Kayo': 4, 'Viper': 4, 'Yoru': 1}","['Controleur', 'Duelliste', 'Initiateur']",67
+DH,DH,T1,0.98,186.0,0.9,68,122.4,0.64,0.39,0.07,0.11,34,21,6,2,33.33,{'Omen': 6},{'Omen': 2},['Controleur'],34
+trent,trent,G2,0.98,173.5,0.98,72,117.6,0.62,0.24,0.03,0.08,31,15,12,6,50.0,"{'Fade': 1, 'Sova': 1, 'Tejo': 10}","{'Fade': 0, 'Sova': 0, 'Tejo': 6}",['Initiateur'],47
+zekken,zekken,SEN,0.98,229.3,0.94,68,157.7,0.75,0.31,0.16,0.21,26,22,6,2,33.33,"{'Jett': 1, 'Neon': 4, 'Raze': 1}","{'Jett': 1, 'Neon': 1, 'Raze': 0}",['Duelliste'],45
+Ethan,Ethan,NRG,0.98,175.8,0.93,72,115.1,0.6,0.42,0.07,0.11,24,17,17,13,76.47,"{'Breach': 1, 'Fade': 3, 'Kayo': 6, 'Omen': 7}","{'Breach': 1, 'Fade': 3, 'Kayo': 5, 'Omen': 4}","['Controleur', 'Initiateur']",72
+ara,ara,GX,0.97,198.7,1.01,66,133.8,0.72,0.13,0.18,0.15,29,14,13,6,46.15,"{'Jett': 3, 'Neon': 4, 'Raze': 5, 'Yoru': 1}","{'Jett': 2, 'Neon': 2, 'Raze': 2, 'Yoru': 0}",['Duelliste'],51
+crashies,crashies,FNC,0.97,179.0,0.97,71,120.5,0.62,0.28,0.06,0.08,31,14,22,13,59.09,"{'Fade': 10, 'Sova': 12}","{'Fade': 4, 'Sova': 9}",['Initiateur'],64
+Jemkin,Jemkin,RRQ,0.97,215.7,1.06,63,132.8,0.74,0.13,0.17,0.13,35,8,7,2,28.57,"{'Jett': 3, 'Waylay': 2, 'Yoru': 2}","{'Jett': 1, 'Waylay': 0, 'Yoru': 1}",['Duelliste'],40
+xenom,xenom,MIBR,0.97,155.1,0.95,78,96.1,0.55,0.53,0.05,0.06,24,8,15,9,60.0,"{'Astra': 3, 'Brimstone': 2, 'Omen': 10}","{'Astra': 1, 'Brimstone': 1, 'Omen': 7}",['Controleur'],53
+Rarga,Rarga,XLG,0.96,208.6,0.98,73,129.8,0.73,0.21,0.17,0.1,34,8,7,2,28.57,"{'Jett': 1, 'Neon': 1, 'Raze': 1, 'Sage': 1, 'Waylay': 1, 'Yoru': 2}","{'Jett': 0, 'Neon': 1, 'Raze': 0, 'Sage': 1, 'Waylay': 0, 'Yoru': 0}","['Sentinelle', 'Duelliste']",45
+N4RRATE,N4RRATE,SEN,0.95,190.2,0.87,70,121.2,0.63,0.39,0.06,0.1,26,17,6,2,33.33,"{'Fade': 3, 'Omen': 1, 'Sova': 2}","{'Fade': 1, 'Omen': 1, 'Sova': 0}","['Controleur', 'Initiateur']",37
+BeYN,BeYN,DRX,0.95,167.7,0.98,71,112.1,0.6,0.26,0.06,0.06,28,24,22,13,59.09,"{'Fade': 11, 'Sova': 11}","{'Fade': 5, 'Sova': 8}",['Initiateur'],61
+doma,doma,FNC,0.94,167.3,0.9,73,119.8,0.58,0.21,0.08,0.06,29,14,3,2,66.67,"{'Killjoy': 2, 'Tejo': 1}","{'Killjoy': 2, 'Tejo': 0}","['Sentinelle', 'Initiateur']",50
+nephh,nephh,BLG,0.94,164.0,0.88,67,104.8,0.56,0.29,0.05,0.08,20,10,5,1,20.0,"{'Breach': 2, 'Deadlock': 1, 'Omen': 2}","{'Breach': 1, 'Deadlock': 0, 'Omen': 0}","['Sentinelle', 'Controleur', 'Initiateur']",31
+Levius,Levius,BLG,0.93,188.0,0.99,59,122.1,0.71,0.17,0.13,0.09,30,6,5,1,20.0,"{'Cypher': 2, 'Viper': 1, 'Vyse': 2}","{'Cypher': 1, 'Viper': 0, 'Vyse': 0}","['Sentinelle', 'Controleur']",34
+MiniBoo,MiniBoo,TH,0.93,204.4,0.95,65,134.9,0.71,0.16,0.19,0.17,26,27,12,7,58.33,"{'Raze': 4, 'Waylay': 2, 'Yoru': 6}","{'Raze': 2, 'Waylay': 2, 'Yoru': 3}",['Duelliste'],57
+kamo,kamo,TL,0.93,190.3,0.94,63,128.4,0.68,0.12,0.14,0.24,32,15,7,2,28.57,"{'Jett': 3, 'Neon': 1, 'Raze': 1, 'Yoru': 2}","{'Jett': 1, 'Neon': 0, 'Raze': 0, 'Yoru': 1}",['Duelliste'],35
+Flickless,Flickless,GX,0.92,173.7,0.83,74,115.8,0.56,0.47,0.06,0.07,26,9,13,6,46.15,"{'Breach': 4, 'Kayo': 3, 'Viper': 6}","{'Breach': 2, 'Kayo': 2, 'Viper': 2}","['Controleur', 'Initiateur']",48
+Monyet,Monyet,RRQ,0.92,174.9,0.88,69,109.6,0.61,0.4,0.05,0.09,28,11,7,2,28.57,"{'Neon': 1, 'Omen': 5, 'Raze': 1}","{'Neon': 0, 'Omen': 1, 'Raze': 1}","['Duelliste', 'Controleur']",35
+JonahP,JonahP,G2,0.91,172.8,0.84,71,108.3,0.58,0.37,0.08,0.1,19,21,12,6,50.0,"{'Fade': 8, 'Sage': 1, 'Sova': 2, 'Vyse': 1}","{'Fade': 5, 'Sage': 0, 'Sova': 1, 'Vyse': 0}","['Sentinelle', 'Initiateur']",47
+Nicc,Nicc,DRG,0.91,173.5,0.94,77,121.7,0.65,0.28,0.02,0.06,34,0,4,0,0.0,"{'Breach': 2, 'Fade': 1, 'Sova': 1}","{'Breach': 0, 'Fade': 0, 'Sova': 0}",['Initiateur'],35
+Kushy,Kushy,RRQ,0.91,178.9,0.85,66,120.7,0.63,0.29,0.07,0.12,40,14,7,2,28.57,"{'Fade': 3, 'Kayo': 3, 'Sova': 1}","{'Fade': 1, 'Kayo': 1, 'Sova': 0}",['Initiateur'],33
+benjyfishy,benjyfishy,TH,0.89,175.1,0.83,71,115.0,0.59,0.28,0.06,0.07,27,17,12,7,58.33,"{'Cypher': 3, 'Deadlock': 4, 'Viper': 2, 'Vyse': 3}","{'Cypher': 2, 'Deadlock': 2, 'Viper': 2, 'Vyse': 1}","['Sentinelle', 'Controleur']",54
+free1ng,free1ng,DRX,0.89,165.4,0.88,68,110.7,0.57,0.2,0.09,0.09,35,15,22,13,59.09,"{'Cypher': 8, 'Viper': 5, 'Vyse': 9}","{'Cypher': 5, 'Viper': 3, 'Vyse': 5}","['Sentinelle', 'Controleur']",62
+CHICHOO,CHICHOO,EDG,0.89,158.2,0.9,69,113.5,0.59,0.25,0.07,0.08,21,15,5,1,20.0,"{'Astra': 1, 'Cypher': 1, 'Sage': 1, 'Viper': 2}","{'Astra': 0, 'Cypher': 1, 'Sage': 0, 'Viper': 0}","['Sentinelle', 'Controleur']",31
+Boaster,Boaster,FNC,0.89,145.2,0.77,70,94.0,0.49,0.38,0.04,0.08,22,16,22,13,59.09,"{'Astra': 9, 'Omen': 13}","{'Astra': 5, 'Omen': 8}",['Controleur'],54
+Boo,Boo,TH,0.88,143.7,0.74,71,93.1,0.5,0.53,0.05,0.09,31,17,12,7,58.33,"{'Astra': 2, 'Brimstone': 2, 'Omen': 8}","{'Astra': 1, 'Brimstone': 2, 'Omen': 4}",['Controleur'],43
+trexx,trexx,TL,0.87,160.1,0.73,63,109.7,0.51,0.26,0.04,0.07,20,4,7,2,28.57,"{'Brimstone': 1, 'Fade': 1, 'Gekko': 1, 'Sova': 3, 'Vyse': 1}","{'Brimstone': 1, 'Fade': 0, 'Gekko': 0, 'Sova': 1, 'Vyse': 0}","['Sentinelle', 'Controleur', 'Initiateur']",32
+BuZz,BuZz,T1,0.85,190.3,0.92,69,127.4,0.7,0.25,0.06,0.18,25,38,6,2,33.33,{'Neon': 6},{'Neon': 2},['Duelliste'],37
+xffero,xffero,RRQ,0.85,172.0,0.88,66,113.5,0.61,0.2,0.12,0.12,27,8,7,2,28.57,"{'Cypher': 5, 'Viper': 2}","{'Cypher': 1, 'Viper': 1}","['Sentinelle', 'Controleur']",34
+PatMen,PatMen,PRX,0.84,157.8,0.83,68,106.5,0.55,0.21,0.04,0.06,31,5,16,9,56.25,"{'Fade': 10, 'Sova': 4, 'Viper': 2}","{'Fade': 5, 'Sova': 2, 'Viper': 2}","['Controleur', 'Initiateur']",53
+Akeman,Akeman,DRG,0.84,196.8,0.88,62,124.4,0.69,0.16,0.15,0.13,25,30,4,0,0.0,"{'Neon': 1, 'Waylay': 3}","{'Neon': 0, 'Waylay': 0}",['Duelliste'],33
+Flex1n,Flex1n,DRG,0.84,184.8,0.85,76,119.0,0.62,0.4,0.1,0.12,29,0,4,0,0.0,{'Omen': 4},{'Omen': 0},['Controleur'],34
+grubinho,grubinho,GX,0.83,169.1,0.8,70,108.0,0.6,0.39,0.11,0.1,29,22,13,6,46.15,"{'Astra': 2, 'Omen': 11}","{'Astra': 1, 'Omen': 5}",['Controleur'],43
+crazyguy,crazyguy,RRQ,0.82,152.0,0.71,68,109.8,0.49,0.33,0.04,0.09,24,13,7,2,28.57,"{'Breach': 1, 'Omen': 2, 'Sova': 3, 'Tejo': 1}","{'Breach': 0, 'Omen': 1, 'Sova': 1, 'Tejo': 0}","['Controleur', 'Initiateur']",30
+Jieni7,Jieni7,EDG,0.82,191.8,0.83,67,117.9,0.65,0.23,0.12,0.08,26,0,5,1,20.0,"{'Breach': 1, 'Neon': 2, 'Tejo': 1, 'Waylay': 1}","{'Breach': 1, 'Neon': 0, 'Tejo': 0, 'Waylay': 0}","['Duelliste', 'Initiateur']",35
+paTiTek,paTiTek,TL,0.81,156.9,0.74,66,101.1,0.53,0.36,0.03,0.05,27,9,7,2,28.57,"{'Fade': 2, 'Kayo': 3, 'Omen': 1, 'Skye': 1}","{'Fade': 1, 'Kayo': 1, 'Omen': 0, 'Skye': 0}","['Controleur', 'Initiateur']",30
+Zellsis,Zellsis,SEN,0.8,152.3,0.77,67,99.7,0.54,0.27,0.13,0.11,20,0,6,2,33.33,"{'Breach': 1, 'Kayo': 1, 'Killjoy': 2, 'Vyse': 2}","{'Breach': 0, 'Kayo': 1, 'Killjoy': 0, 'Vyse': 1}","['Sentinelle', 'Initiateur']",28
+bang,bang,SEN,0.79,140.8,0.79,67,92.4,0.53,0.29,0.06,0.09,35,11,6,2,33.33,"{'Astra': 1, 'Omen': 5}","{'Astra': 1, 'Omen': 1}",['Controleur'],23
+coconut,coconut,XLG,0.77,149.6,0.71,71,92.6,0.5,0.44,0.08,0.07,30,0,7,2,28.57,"{'Astra': 1, 'Gekko': 2, 'Omen': 4}","{'Astra': 0, 'Gekko': 0, 'Omen': 2}","['Controleur', 'Initiateur']",29
+stax,stax,T1,0.75,146.5,0.69,66,98.8,0.49,0.31,0.03,0.07,38,10,6,2,33.33,"{'Fade': 4, 'Sova': 2}","{'Fade': 1, 'Sova': 1}",['Initiateur'],23
+rushia,rushia,BLG,0.72,147.6,0.59,64,102.3,0.45,0.33,0.06,0.11,19,0,5,1,20.0,"{'Harbor': 1, 'Omen': 3, 'Viper': 1}","{'Harbor': 0, 'Omen': 1, 'Viper': 0}",['Controleur'],21
+whzy,whzy,BLG,0.63,154.4,0.61,64,101.9,0.52,0.22,0.11,0.19,31,0,5,1,20.0,"{'Neon': 3, 'Raze': 1, 'Yoru': 1}","{'Neon': 1, 'Raze': 0, 'Yoru': 0}",['Duelliste'],23
