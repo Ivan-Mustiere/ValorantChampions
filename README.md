@@ -6,6 +6,8 @@ Ce projet est réalisé dans le cadre de mon M2 Data Engineering.
 Il porte sur l’analyse des joueurs professionnels de Valorant, avec un travail centré sur la Data Visualization.  
 L’objectif est de rendre la data visible, claire et exploitable pour faciliter son étude.
 
+Les données ont été rendues visibles et accessibles afin de faciliter leur exploitation, leur exécution dans les scripts, et l’étude statistique globale du projet.  
+
 Le projet inclut un tableau public, une présentation complète ainsi qu’un prototype final de Dashboard.
 
 ## Contenu du projet  
