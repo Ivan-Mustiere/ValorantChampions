@@ -1,0 +1,8 @@
+# Créer l'environnement à partir du fichier
+conda env create -f environment.yml
+
+# Activer l'environnement
+conda activate valorant_dashboard
+
+# Mettre à jour l'environnement si le fichier change
+conda env update -f environment.yml --prune
