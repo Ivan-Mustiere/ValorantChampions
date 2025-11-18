@@ -11,8 +11,8 @@ print(f"Dataset téléchargé dans : {path2024}")
 print(f"Dataset téléchargé dans : {path2025}")
 
 # Définir le dossier de destination dans ton espace de travail
-destination2024 = os.path.expanduser("~/Data_Ana/2024")
-destination2025 = os.path.expanduser("~/Data_Ana/2025")
+destination2024 = os.path.expanduser("~/ValorantChampions/data/2024")
+destination2025 = os.path.expanduser("~/ValorantChampions/data/2025")
 
 # Copier le dossier (dirs_exist_ok=True permet d’écraser si le dossier existe déjà)
 print(f"Copie des fichiers vers : {destination2024}")

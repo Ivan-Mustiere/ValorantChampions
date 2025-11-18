@@ -14,6 +14,7 @@ Le projet inclut un tableau public, une présentation complète ainsi qu’un pr
 - Visualisations intermédiaires.  
 - Prototype de Dashboard final.  
 - Présentation du projet réalisée sur Figma.
+- Import Kaggle automatisé disponible dans `scripts/kaggleImport.py`.
 
 ## Présentation Figma  
 La présentation et la maquette du Dashboard final sont disponibles ici :  
@@ -22,6 +23,15 @@ La présentation et la maquette du Dashboard final sont disponibles ici :
 
 
 ## Objectif  
-Rendre les données accessibles et lisibles afin de faciliter l’étude des performances des joueurs professionnels, et mettre en avant les indicateurs clés liés à l’esport Valorant.
+Proposer une solution permettant aux recruteurs et aux managers d’identifier rapidement des profils de joueurs correspondant à leurs exigences, grâce à une analyse claire et structurée des performances professionnelles dans l’esport Valorant.
 
 ## Structure du dépôt  
+
+- data/ → données sources
+- notebooks/ → analyses et visualisations
+- scripts/ → scripts de préparation et nettoyage
+- dashboard/ → prototype du Dashboard final
+- README.md → documentation du projet
+
+## Licence  
+Usage académique uniquement
